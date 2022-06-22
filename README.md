@@ -3,4 +3,4 @@ Project  in BADS7203 Image and Video Analytics
 [![](https://img.shields.io/badge/-BlazePose-blue)](#) [![](https://img.shields.io/badge/-Tiny--YOLO--V3--Algorithm-green)](#)  
 .
 ## About Program
-![Program](./PPT present about Program.pdf)
+![Program](./PPT_present_about_Program.pdf)

@@ -39,7 +39,7 @@ the program with 2 main parts:
 2.) Gesture estimation and object detection The video or image is given as input to the model. And frames are extracted from the video and sent for evaluation to extract the key points from all 33 key points for a single person.
 Create a pose landmark from the prototype figure in which the coordinates (x, y, z) of the key point 33 skeleton landmarks are calculated. For all of these 33 objects, the object detector is shown in Figure 2.
   
-<img src="https://github.com/KodchakornL/Program-help-to-edit-poses-to-make-a-photo-like-an-influencer-by-artificial-intelligence/blob/main/slide_ppt/Picture2.png" width="300" height="600" />  
+<img src="https://github.com/KodchakornL/Program-help-to-edit-poses-to-make-a-photo-like-an-influencer-by-artificial-intelligence/blob/main/slide_ppt/Picture2.png" width="600" height="300" />  
   
 Then the Gesture Estimator will cut off the human part from the entered image. Whereas the estimator takes a 256x256 resolution image of the person it detects as input, creates a real-time pose landmark, while checking for land mask similarity export key points. If the landmark visibility of the prototype and the landmark of the photographed person is less than or equal to 0.3, the blue key points is the correct pose. And if the landmark visibility of the prototype photo and the person's landmark, if it is greater than 0.3, the landmark (or key points) will be red. The pose is wrong at that point as shown in picture 3.
   
@@ -53,7 +53,7 @@ and running at over 30 frames per second on Pixel 2 phones. For effective detect
 <img src="https://github.com/KodchakornL/Program-help-to-edit-poses-to-make-a-photo-like-an-influencer-by-artificial-intelligence/blob/main/slide_ppt/Picture4.png" width="300" height="300" />
 
 ## About Program  
-<img src="https://github.com/KodchakornL/Program-help-to-edit-poses-to-make-a-photo-like-an-influencer-by-artificial-intelligence/blob/main/slide_ppt/slide_No.0.png" width="300" height="300" />  
+<img src="https://github.com/KodchakornL/Program-help-to-edit-poses-to-make-a-photo-like-an-influencer-by-artificial-intelligence/blob/main/slide_ppt/slide_No.0.png" width="350" height="300" />  
 <img src="https://github.com/KodchakornL/Program-help-to-edit-poses-to-make-a-photo-like-an-influencer-by-artificial-intelligence/blob/main/slide_ppt/slide_No.1.png" width="300" height="300" />  
 <img src="https://github.com/KodchakornL/Program-help-to-edit-poses-to-make-a-photo-like-an-influencer-by-artificial-intelligence/blob/main/slide_ppt/slide_No.2.png" width="300" height="300" />  
 <img src="https://github.com/KodchakornL/Program-help-to-edit-poses-to-make-a-photo-like-an-influencer-by-artificial-intelligence/blob/main/slide_ppt/slide_No.3.png" width="300" height="300" />  

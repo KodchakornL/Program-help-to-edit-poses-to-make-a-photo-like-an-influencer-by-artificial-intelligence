@@ -53,14 +53,14 @@ and running at over 30 frames per second on Pixel 2 phones. For effective detect
 <img src="https://github.com/KodchakornL/Program-help-to-edit-poses-to-make-a-photo-like-an-influencer-by-artificial-intelligence/blob/main/slide_ppt/Picture4.png" width="300" height="300" />
 
 ## About Program  
-<img src="https://github.com/KodchakornL/Program-help-to-edit-poses-to-make-a-photo-like-an-influencer-by-artificial-intelligence/blob/main/slide_ppt/slide_No.0.png" width="1000" height="1000" />  
-<img src="https://github.com/KodchakornL/Program-help-to-edit-poses-to-make-a-photo-like-an-influencer-by-artificial-intelligence/blob/main/slide_ppt/slide_No.1.png" width="300" height="300" />  
-<img src="https://github.com/KodchakornL/Program-help-to-edit-poses-to-make-a-photo-like-an-influencer-by-artificial-intelligence/blob/main/slide_ppt/slide_No.2.png" width="300" height="300" />  
-<img src="https://github.com/KodchakornL/Program-help-to-edit-poses-to-make-a-photo-like-an-influencer-by-artificial-intelligence/blob/main/slide_ppt/slide_No.3.png" width="300" height="300" />  
-<img src="https://github.com/KodchakornL/Program-help-to-edit-poses-to-make-a-photo-like-an-influencer-by-artificial-intelligence/blob/main/slide_ppt/slide_No.4.png" width="300" height="300" />  
-<img src="https://github.com/KodchakornL/Program-help-to-edit-poses-to-make-a-photo-like-an-influencer-by-artificial-intelligence/blob/main/slide_ppt/slide_No.5.png" width="300" height="300" />  
-<img src="https://github.com/KodchakornL/Program-help-to-edit-poses-to-make-a-photo-like-an-influencer-by-artificial-intelligence/blob/main/slide_ppt/slide_No.6.png" width="300" height="300" />  
-<img src="https://github.com/KodchakornL/Program-help-to-edit-poses-to-make-a-photo-like-an-influencer-by-artificial-intelligence/blob/main/slide_ppt/slide_No.7.png" width="300" height="300" />  
-<img src="https://github.com/KodchakornL/Program-help-to-edit-poses-to-make-a-photo-like-an-influencer-by-artificial-intelligence/blob/main/slide_ppt/slide_No.8.png" width="300" height="300" />  
-<img src="https://github.com/KodchakornL/Program-help-to-edit-poses-to-make-a-photo-like-an-influencer-by-artificial-intelligence/blob/main/slide_ppt/slide_No.9.png" width="300" height="300" />  
-<img src="https://github.com/KodchakornL/Program-help-to-edit-poses-to-make-a-photo-like-an-influencer-by-artificial-intelligence/blob/main/slide_ppt/slide_No.10.png" width="300" height="300" />  
+![step1](/slide_ppt/slide_No.0.png)  
+![step1](/slide_ppt/slide_No.1.png)  
+![step1](/slide_ppt/slide_No.2.png)  
+![step1](/slide_ppt/slide_No.3.png)  
+![step1](/slide_ppt/slide_No.4.png)  
+![step1](/slide_ppt/slide_No.5.png)  
+![step1](/slide_ppt/slide_No.6.png)  
+![step1](/slide_ppt/slide_No.7.png)  
+![step1](/slide_ppt/slide_No.8.png)  
+![step1](/slide_ppt/slide_No.9.png)  
+![step1](/slide_ppt/slide_No.10.png)  

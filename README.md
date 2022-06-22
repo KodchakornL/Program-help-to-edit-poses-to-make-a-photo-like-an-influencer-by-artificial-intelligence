@@ -21,7 +21,7 @@ the program with 2 main parts:
   
 **Step 1. Choose gender between male and female.**  
   
-<img src="https://github.com/KodchakornL/Program-help-to-edit-poses-to-make-a-photo-like-an-influencer-by-artificial-intelligence/blob/main/slide_ppt/Picture1.1.png" width="250" height="250" />  
+<img src="https://github.com/KodchakornL/Program-help-to-edit-poses-to-make-a-photo-like-an-influencer-by-artificial-intelligence/blob/main/slide_ppt/Picture1.1.png" width="300" height="300" />  
   
 **Step 2. Choose a posture between sitting and standing. Examples :**  
   

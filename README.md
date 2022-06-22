@@ -25,8 +25,8 @@ the program with 2 main parts:
   
 **Step 2. Choose a posture between sitting and standing. Examples :**  
   
-![step2](./slide_ppt/Picture1.2.png)  
-![step2](./slide_ppt/Picture1.3.png)  
+<img src="https://github.com/KodchakornL/Program-help-to-edit-poses-to-make-a-photo-like-an-influencer-by-artificial-intelligence/blob/main/slide_ppt/Picture1.2.png" width="300" height="300" />    
+<img src="https://github.com/KodchakornL/Program-help-to-edit-poses-to-make-a-photo-like-an-influencer-by-artificial-intelligence/blob/main/slide_ppt/Picture1.3.png" width="300" height="300" />    
   
 **Step 3. Select the desired pose. as in the examples :**  
   

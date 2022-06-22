@@ -53,7 +53,7 @@ and running at over 30 frames per second on Pixel 2 phones. For effective detect
 <img src="https://github.com/KodchakornL/Program-help-to-edit-poses-to-make-a-photo-like-an-influencer-by-artificial-intelligence/blob/main/slide_ppt/Picture4.png" width="300" height="300" />
 
 ## About Program  
-<img src="https://github.com/KodchakornL/Program-help-to-edit-poses-to-make-a-photo-like-an-influencer-by-artificial-intelligence/blob/main/slide_ppt/slide_No.0.png" width="350" height="300" />  
+<img src="https://github.com/KodchakornL/Program-help-to-edit-poses-to-make-a-photo-like-an-influencer-by-artificial-intelligence/blob/main/slide_ppt/slide_No.0.png" width="1000" height="1000" />  
 <img src="https://github.com/KodchakornL/Program-help-to-edit-poses-to-make-a-photo-like-an-influencer-by-artificial-intelligence/blob/main/slide_ppt/slide_No.1.png" width="300" height="300" />  
 <img src="https://github.com/KodchakornL/Program-help-to-edit-poses-to-make-a-photo-like-an-influencer-by-artificial-intelligence/blob/main/slide_ppt/slide_No.2.png" width="300" height="300" />  
 <img src="https://github.com/KodchakornL/Program-help-to-edit-poses-to-make-a-photo-like-an-influencer-by-artificial-intelligence/blob/main/slide_ppt/slide_No.3.png" width="300" height="300" />  

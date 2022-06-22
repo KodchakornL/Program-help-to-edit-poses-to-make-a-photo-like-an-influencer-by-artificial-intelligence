@@ -16,8 +16,8 @@ The dataset used image data published from the Printerest app by selecting a mod
 5.) mediapipe version 0.8.10  
 6.) time version 1.0.0  
 7.) os  
-the program with 2 main parts:
-1.) Create a Graphical user interface (GUI) so that program users can choose the poses they want.  
+the program with 2 main parts:  
+**1.) Create a Graphical user interface (GUI) so that program users can choose the poses they want.**  
   
 **Step 1. Choose gender between male and female.**  
   
@@ -36,7 +36,8 @@ the program with 2 main parts:
 <img src="https://github.com/KodchakornL/Program-help-to-edit-poses-to-make-a-photo-like-an-influencer-by-artificial-intelligence/blob/main/slide_ppt/Picture1.7.png" width="350" height="300" />  
   
   
-2.) Gesture estimation and object detection The video or image is given as input to the model. And frames are extracted from the video and sent for evaluation to extract the key points from all 33 key points for a single person.
+**2.) Human pose estimation and object detection The video or image is given as input to the model.**  
+And frames are extracted from the video and sent for evaluation to extract the key points from all 33 key points for a single person.
 Create a pose landmark from the prototype figure in which the coordinates (x, y, z) of the key point 33 skeleton landmarks are calculated. For all of these 33 objects, the object detector is shown in Figure 2.
   
 <img src="https://github.com/KodchakornL/Program-help-to-edit-poses-to-make-a-photo-like-an-influencer-by-artificial-intelligence/blob/main/slide_ppt/Picture2.png" width="600" height="300" />  

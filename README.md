@@ -21,7 +21,7 @@ the program with 2 main parts:
   
 **Step 1. Choose gender between male and female.**  
   
-![step1](./slide_ppt/Picture1.1.png=250x250)  
+![step1](./slide_ppt/Picture1.1.png|width=100)  
   
 **Step 2. Choose a posture between sitting and standing. Examples :**  
   

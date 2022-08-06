@@ -50,6 +50,13 @@ Then the Gesture Estimator will cut off the human part from the entered image. W
 and running at over 30 frames per second on Pixel 2 phones. For effective detection, the speedy Tiny YOLO V3 algorithm is used. and high humility Let's detect the person who created the frame to suggest the pose location, the final step set, when the pose counts the landmark's wrong points less than or equal to 5 points, it will automatically take a photo and keep this picture.
 
 **Result :**  
+**Evaluation**
+The results showed that using BlazePose, the researchers found that 33 key points were correctly detected. The result is an image that is close to the original image.
+
+Program outcomes were measured by using a satisfaction assessment form from a sample of 7 people, 4 females and 3 males, aged 20-29 years. and user satisfaction. 
+
+The questionnaire was used on the Ordinal scale with 5 levels of opinion: 1. Lowest 2.Low 3. Moderate 4.Good 5.Very good. good level The highest user satisfaction is Ease of use of the program The subjects with the lowest satisfaction rating were speed of use and user satisfaction which is at a good level as well as satisfaction with the use of the system in terms of accuracy And the accuracy of the images is the highest rated topic. And the satisfaction of the photographs that can be taken is a secondary topic as shown in Table 1 and Figure 4.  
+  
   
 <img src="https://github.com/KodchakornL/Program-help-to-edit-poses-to-make-a-photo-like-an-influencer-by-artificial-intelligence/blob/main/slide_ppt/Picture4.png" width="450" height="400" />
 

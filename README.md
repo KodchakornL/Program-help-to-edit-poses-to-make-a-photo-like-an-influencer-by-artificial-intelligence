@@ -54,8 +54,8 @@ and running at over 30 frames per second on Pixel 2 phones. For effective detect
 **Evaluation**
 The results showed that using BlazePose, the researchers found that 33 key points were correctly detected. The result is an image that is close to the original image. Program outcomes were measured by using a satisfaction assessment form from a sample of 7 people, 4 females and 3 males, aged 20-29 years. and user satisfaction. 
 
-<img src="https://github.com/KodchakornL/Program-help-to-edit-poses-to-make-a-photo-like-an-influencer-by-artificial-intelligence/blob/main/slide_ppt/Picture5.1.png" width="350" height="300" />  Table 1 Summary of statistics for evaluating program user satisfaction
-<img src="https://github.com/KodchakornL/Program-help-to-edit-poses-to-make-a-photo-like-an-influencer-by-artificial-intelligence/blob/main/slide_ppt/Picture5.2.png" width="350" height="300" />  Picture 3 Image chart showing user satisfaction evaluation of the program.
+<img src="https://github.com/KodchakornL/Program-help-to-edit-poses-to-make-a-photo-like-an-influencer-by-artificial-intelligence/blob/main/slide_ppt/Picture5.1.png" width="400" height="300" />  Table 1 Summary of statistics for evaluating program user satisfaction
+<img src="https://github.com/KodchakornL/Program-help-to-edit-poses-to-make-a-photo-like-an-influencer-by-artificial-intelligence/blob/main/slide_ppt/Picture5.2.png" width="400" height="300" />  Picture 3 Image chart showing user satisfaction evaluation of the program.
 
 The questionnaire was used on the Ordinal scale with 5 levels of opinion: 1. Lowest 2.Low 3. Moderate 4.Good 5.Very good. good level The highest user satisfaction is Ease of use of the program The subjects with the lowest satisfaction rating were speed of use and user satisfaction which is at a good level as well as satisfaction with the use of the system in terms of accuracy And the accuracy of the images is the highest rated topic. And the satisfaction of the photographs that can be taken is a secondary topic as shown in Table 1 and picture 3.  
 
@@ -63,14 +63,9 @@ The questionnaire was used on the Ordinal scale with 5 levels of opinion: 1. Low
 <img src="https://github.com/KodchakornL/Program-help-to-edit-poses-to-make-a-photo-like-an-influencer-by-artificial-intelligence/blob/main/slide_ppt/Picture4.png" width="450" height="400" />
 
 ## About Program  
-![step1](/slide_ppt/slide_No.0.png)  
-![step1](/slide_ppt/slide_No.1.png)  
-![step1](/slide_ppt/slide_No.2.png)  
-![step1](/slide_ppt/slide_No.3.png)  
-![step1](/slide_ppt/slide_No.4.png)  
-![step1](/slide_ppt/slide_No.5.png)  
-![step1](/slide_ppt/slide_No.6.png)  
-![step1](/slide_ppt/slide_No.7.png)  
-![step1](/slide_ppt/slide_No.8.png)  
-![step1](/slide_ppt/slide_No.9.png)  
+![step1](/slide_ppt/slide_No.0.png) ![step1](/slide_ppt/slide_No.1.png)  
+![step1](/slide_ppt/slide_No.2.png) ![step1](/slide_ppt/slide_No.3.png)  
+![step1](/slide_ppt/slide_No.4.png) ![step1](/slide_ppt/slide_No.5.png)  
+![step1](/slide_ppt/slide_No.6.png) ![step1](/slide_ppt/slide_No.7.png)  
+![step1](/slide_ppt/slide_No.8.png) ![step1](/slide_ppt/slide_No.9.png)  
 ![step1](/slide_ppt/slide_No.10.png)  

@@ -44,7 +44,6 @@ Create a pose landmark from the prototype figure in which the coordinates (x, y,
 Picture 1 show Human pose estimation pipeline.  
     
     
-    
 Then the Gesture Estimator will cut off the human part from the entered image. Whereas the estimator takes a 256x256 resolution image of the person it detects as input, creates a real-time pose landmark, while checking for land mask similarity export key points. If the landmark visibility of the prototype and the landmark of the photographed person is less than or equal to 0.3, the blue key points is the correct pose. And if the landmark visibility of the prototype photo and the person's landmark, if it is greater than 0.3, the landmark (or key points) will be red. The pose is wrong at that point as shown in picture 2.  
   
 <img src="https://github.com/KodchakornL/Program-help-to-edit-poses-to-make-a-photo-like-an-influencer-by-artificial-intelligence/blob/main/slide_ppt/Picture3.1.png" width="350" height="300" />  
@@ -52,18 +51,17 @@ Then the Gesture Estimator will cut off the human part from the entered image. W
 Picture 2 Blazepose creates pose landmarks in real time and checks for similar landmarks, with the model in the program in the top left is the prototype, bottom left is the last captured image.  
     
     
-    
 and running at over 30 frames per second on Pixel 2 phones. For effective detection, the speedy Tiny YOLO V3 algorithm is used. and high humility Let's detect the person who created the frame to suggest the pose location, the final step set, when the pose counts the landmark's wrong points less than or equal to 5 points, it will automatically take a photo and keep this picture.
 
-**Result :**  
 **Evaluation**
-The results showed that using BlazePose, the researchers found that 33 key points were correctly detected. The result is an image that is close to the original image.
+The results showed that using BlazePose, the researchers found that 33 key points were correctly detected. The result is an image that is close to the original image. Program outcomes were measured by using a satisfaction assessment form from a sample of 7 people, 4 females and 3 males, aged 20-29 years. and user satisfaction. 
 
-Program outcomes were measured by using a satisfaction assessment form from a sample of 7 people, 4 females and 3 males, aged 20-29 years. and user satisfaction. 
+<img src="https://github.com/KodchakornL/Program-help-to-edit-poses-to-make-a-photo-like-an-influencer-by-artificial-intelligence/blob/main/slide_ppt/Picture5.1.png" width="350" height="300" />  Table 1 Summary of statistics for evaluating program user satisfaction
+<img src="https://github.com/KodchakornL/Program-help-to-edit-poses-to-make-a-photo-like-an-influencer-by-artificial-intelligence/blob/main/slide_ppt/Picture5.2.png" width="350" height="300" />  Picture 3 Image chart showing user satisfaction evaluation of the program.
 
-The questionnaire was used on the Ordinal scale with 5 levels of opinion: 1. Lowest 2.Low 3. Moderate 4.Good 5.Very good. good level The highest user satisfaction is Ease of use of the program The subjects with the lowest satisfaction rating were speed of use and user satisfaction which is at a good level as well as satisfaction with the use of the system in terms of accuracy And the accuracy of the images is the highest rated topic. And the satisfaction of the photographs that can be taken is a secondary topic as shown in Table 1 and Figure 4.  
-  
-  
+The questionnaire was used on the Ordinal scale with 5 levels of opinion: 1. Lowest 2.Low 3. Moderate 4.Good 5.Very good. good level The highest user satisfaction is Ease of use of the program The subjects with the lowest satisfaction rating were speed of use and user satisfaction which is at a good level as well as satisfaction with the use of the system in terms of accuracy And the accuracy of the images is the highest rated topic. And the satisfaction of the photographs that can be taken is a secondary topic as shown in Table 1 and picture 3.  
+
+**Result :**    
 <img src="https://github.com/KodchakornL/Program-help-to-edit-poses-to-make-a-photo-like-an-influencer-by-artificial-intelligence/blob/main/slide_ppt/Picture4.png" width="450" height="400" />
 
 ## About Program  
